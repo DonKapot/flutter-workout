@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.flutter_workout.flutter_workout">
+    package="com.example.flutter_workout">
    <application
         android:label="flutter_workout"
         android:name="${applicationName}"
